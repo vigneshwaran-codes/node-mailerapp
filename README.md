@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Node Mailer Application
 
@@ -133,3 +134,12 @@ Generate new Temporary password and replaced with old password in DB
 **Server:** Node, Express
 
 **Database** Mongoose
+=======
+# node-mailerapp
+
+## This Node Mailer Applicatiom
+
+#Links
+
+https://node-mailer.readme.io/docs/getting-started
+>>>>>>> 78d7c5ce0a4e60a50215dbb8a277d0c3c66bb881
