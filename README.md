@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-
 # Node Mailer Application
 
 
@@ -111,35 +109,41 @@ Generate new Temporary password and replaced with old password in DB
 ```http
   POST api/signup
 ```
+![App Screenshot](https://github.com/vigneshwaran-codes/node-mailerapp/blob/main/public/assets/images/SIGN_UP.png)
+
+User already exists
+
+![App Screenshot](https://github.com/vigneshwaran-codes/node-mailerapp/blob/main/public/assets/images/USER_EXISTS.png)
 
 #### Login User
 
 ```http
   POST api/login
 ```
+![App Screenshot](https://github.com/vigneshwaran-codes/node-mailerapp/blob/main/public/assets/images/LOGIN.png)
 
 #### Send Mail
 
 ```http
   POST api/mailsend
 ```
+![App Screenshot](https://github.com/vigneshwaran-codes/node-mailerapp/blob/main/public/assets/images/MAIL_SEND_TO_GMAIL.png)
+
+![App Screenshot](https://github.com/vigneshwaran-codes/node-mailerapp/blob/main/public/assets/images/EMAIL_SEND.png)
 
 #### To Reset password
 
 ```http
   POST api/forgetpassword
 ```
+![App Screenshot](https://github.com/vigneshwaran-codes/node-mailerapp/blob/main/public/assets/images/RESET_PASSWORD_API.png)
+
+![App Screenshot](https://github.com/vigneshwaran-codes/node-mailerapp/blob/main/public/assets/images/RESET_PASS_MAIL.png)
+
 ## Tech Stack
 
 **Server:** Node, Express
 
 **Database** Mongoose
 =======
-# node-mailerapp
 
-## This Node Mailer Applicatiom
-
-#Links
-
-https://node-mailer.readme.io/docs/getting-started
->>>>>>> 78d7c5ce0a4e60a50215dbb8a277d0c3c66bb881
